@@ -1,0 +1,14 @@
+{
+    "name": "com.joh.unitytools",
+    "displayName": "UnityTools",
+    "version": "0.0.1",
+    "unity": "2021.2",
+    "unityRelease": "18f1",
+    "category": "Runtime",
+    "description": "tools in Unity.",
+    "keywords": ["Unity","Tools"],
+    "author": {
+        "name": "Jo.H",
+	"email": "497580340@qq.com"
+    },
+}
